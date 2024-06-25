@@ -44,6 +44,8 @@ Structure du projet
 css
 Copier le code
 apibiere
+
+
 ├── backend
 │   ├── src
 │   │   ├── main
@@ -69,6 +71,9 @@ apibiere
         ├── index.css
         ├── index.js
         └── ...
+
+
+
 API Endpoints
 Articles
 GET /articles - Récupérer la liste des articles
